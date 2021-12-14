@@ -2,5 +2,5 @@
 
 I am an aspiring Data Scientist based in South Africa.
 
-Interest in Data Analytics.
+Interested in Data Analytics.
 
